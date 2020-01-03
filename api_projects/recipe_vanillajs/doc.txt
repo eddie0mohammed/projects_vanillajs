@@ -1,0 +1,4 @@
+
+1. retrieve data from API 
+2. pagination
+3. implemented using the module pattern
